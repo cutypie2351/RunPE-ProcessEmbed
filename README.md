@@ -14,7 +14,8 @@ Using that you can **Embed** your target process inside a parent process and hid
 ## Notes
 - Only works with 64-bit PE bytes/files (next version i will add 32-bit support).
 - Change the PE bytes to your own PE bytes in bytes.h 
-(you can convert PE file to bytes by this online tool: https://tomeko.net/online_tools/file_to_hex.php)
+
+(**you can convert PE File to Bytes** by this online tool: https://tomeko.net/online_tools/file_to_hex.php)
 
 ## How to use:
 Basic example code with Error handling:
