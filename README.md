@@ -2,7 +2,7 @@
 A basic RunPE function that Embed your target PE in the main process. making it more protected from debugging and reversing
 
 ## What is RunPE?
-RunPE is a technique to run PE (Portable Executable like .exe files) files in your main process memory.
+RunPE is a technique to run PE (Portable Executable like .exe ) files in your main process memory.
 Using that you can **Embed** your target process inside a parent process and hide it from debugging and reversing.
 
 
